@@ -1,5 +1,5 @@
 # 💫 About Me:
-I amm a CS undergraduate <br>I am learning Machine Learning and AI <br>I make small projects to stay consistent<br>fun fact I am a videographer and editor
+I am a CS undergraduate <br>I am learning Machine Learning and AI <br>I make small projects to stay consistent<br>fun fact I am a videographer and editor
 
 
 ## 🌐 Socials:
